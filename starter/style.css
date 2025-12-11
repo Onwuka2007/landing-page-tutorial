@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Epilogue:wght@100..900&display=swap");
+
+/* Root Styles */
+:root {
+  --primary: hsl(0, 0%, 8%);
+  --background: hsl(0, 0%, 98%);
+  --text: hsl(0, 0%, 41%);
+
+  --paragraph: 17px;
+  --paragraph-md: 15px;
+  --header: 4rem;
+  --header-md: 2.5rem;
+  --font-500: 500;
+  --font-700: 700;
+  --font-main: "Epilogue", sans-serif;
+
+  --space-lg: 100px;
+  --space-md: 30px;
+  --space-xs: 8px;
+
+  --radius: 8px;
+}
