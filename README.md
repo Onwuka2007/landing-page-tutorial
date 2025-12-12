@@ -28,7 +28,7 @@ final/
 The final folder contains the fully built Snap landing page with completed styling, responsive layout, and organized code. Use it to compare your work or explore the completed project.
 
 ## Watch the Tutorial:
-The YouTube link will be added here after upload.
+https://youtu.be/SL0Zg3bf7FA
 
 ## What You Will Learn:
 
